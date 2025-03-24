@@ -1,43 +1,55 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey there! 👋 I'm Ujjwal Kumar</h1>
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="280">
+</p>
 
-<p align="left">My name is Ujjwal Kumar and I'm a Backend developer, from India</p>
+---
 
-###
+## 🚀 About Me  
+💻 I'm a **Backend Engineer** passionate about building scalable and high-performance applications.  
 
-<h2 align="left">## About Me  ##<br>👋 Hi, I'm **Ujjwal Kumar**, a **Backend Engineer** passionate about building scalable and high-performance applications.  <br><br>💻 I specialize in **Java, Spring Boot, Microservices, AWS, Kafka, Docker, WebSockets, Hibernate, and MySQL**.  <br><br>🚀 I have experience designing **real-time notification systems, optimizing API performance, and handling large-scale data processing**.  <br><br>📈 Always eager to learn and improve, I enjoy solving complex backend challenges and contributing to system architecture improvements.  <br><br>🎯 Currently exploring **system design, distributed systems, and advanced microservices patterns**.<br>  <br>🤝 Open to **collaborations, discussions, and contributions** on backend-related projects.</h2>
+🔹 **Tech Stack:** Java, Spring Boot, Microservices, AWS, Kafka, Docker, WebSockets, Hibernate, MySQL  
+🔹 **Experience:** Real-time notifications, API optimization, large-scale data processing  
+🔹 **Currently Exploring:** System design, distributed systems, advanced microservices patterns  
 
-###
+📈 I love tackling complex backend challenges and optimizing system performance.  
+🤝 Open to **collaborations, discussions, and contributions** on backend-related projects.  
 
-<p align="left">✨ Creating bugs since **2023**  <br>📚 I'm currently learning **system design, scalable architectures, and advanced microservices patterns**  <br>🎯 Goals: **Optimize API performance, contribute to open-source projects, and build scalable backend solutions**  <br>🎲 Fun fact: **I debug my code better at night but still blame the compiler first!** 😆</p>
+---
 
-###
+## ✨ Fun Facts  
+- 🛠 **Creating bugs since:** 2023  
+- 📚 **Currently learning:** System design, scalable architectures, and advanced microservices patterns  
+- 🎯 **Goals:** Optimize API performance, contribute to open-source projects, and build robust backend solutions  
+- 🎲 **Fun fact:** I debug better at night but still blame the compiler first! 😆  
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## ⚡ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,kubernetes,kafka,mysql,hibernate,git,github,postman" height="50">
+</p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-</div>
+---
 
-###
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalsnoodifyy&show_icons=true&theme=radical" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalsnoodifyy&theme=radical" height="170">
+</p>
+
+---
+
+## 📫 Let's Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ujjwal-kumar-techie" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:your-uk47kumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/uk47kumar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
