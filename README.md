@@ -18,30 +18,59 @@
 
 ---
 
-## ✨ Fun Facts  
-- 🛠 **Creating bugs since:** 2023  
-- 📚 **Currently learning:** System design, scalable architectures, and advanced microservices patterns  
-- 🎯 **Goals:** Optimize API performance, contribute to open-source projects, and build robust backend solutions  
-- 🎲 **Fun fact:** I debug better at night but still blame the compiler first! 😆  
+## ✨ What I Do  
+- 🛠 **Backend Development** - Scalable APIs, Microservices  
+- ⚙️ **System Design** - High-performance architectures  
+- 📊 **Database Optimization** - Efficient queries, caching  
+- 🚀 **Cloud & DevOps** - AWS, CI/CD, Docker, Kubernetes  
+- 🔄 **Real-Time Features** - WebSockets, Event-driven architecture  
 
 ---
 
 ## ⚡ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,kubernetes,kafka,mysql,hibernate,git,github,postman" height="50">
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,kubernetes,kafka,mysql,hibernate,redis,git,github,postman" height="50">
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 GitHub Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalsnoodifyy&show_icons=true&theme=radical" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalsnoodifyy&theme=radical" height="170">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwalsnoodifyy&theme=react-dark&hide_border=true&area=true">
 </p>
 
 ---
 
-## 📫 Let's Connect  
+## 📊 GitHub Stats & Insights  
+
+### **📌 Overall GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalsnoodifyy&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalsnoodifyy&theme=radical&hide_border=true" height="180">
+</p>
+
+### **📌 Language Usage**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalsnoodifyy&layout=compact&theme=radical&hide_border=true" height="160">
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ujjwalsnoodifyy&theme=radical&no-bg=true&margin-w=15&column=7">
+</p>
+
+---
+
+## 🚀 GitHub Contributions Breakdown  
+✅ **Public Contributions:** ✔ Repositories, Commits, PRs  
+🔒 **Private Contributions:** ✔ Code Reviews, Merges, Issues  
+📢 **Community Involvement:** ✔ Open-source contributions, discussions  
+
+---
+
+## 📬 Let's Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/ujjwal-kumar-techie" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
