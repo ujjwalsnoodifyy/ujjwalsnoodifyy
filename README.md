@@ -41,8 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats & Insights  
-
 ### **📌 Overall GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ujjwalsnoodifyy&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180">
@@ -60,13 +58,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ujjwalsnoodifyy&theme=radical&no-bg=true&margin-w=15&column=7">
 </p>
-
----
-
-## 🚀 GitHub Contributions Breakdown  
-✅ **Public Contributions:** ✔ Repositories, Commits, PRs  
-🔒 **Private Contributions:** ✔ Code Reviews, Merges, Issues  
-📢 **Community Involvement:** ✔ Open-source contributions, discussions  
 
 ---
 
