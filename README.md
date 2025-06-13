@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Ujjwal Kumar</h1>
 
 <p align="center">
-  <img src="https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif" width="1080" height="400" alt="Backend Developer Coding">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*MmlUmaa0oRxkQXzrKghdMQ.gif" width="900" height="500" alt="Backend Developer Coding">
 </p>
 
 ---
