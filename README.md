@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Ujjwal Kumar</h1>
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*9XI4DHbHZoGzMVfD.gif" width="1280" height="480" alt="Backend Developer Coding">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*9XI4DHbHZoGzMVfD.gif" width="1280" height="400" alt="Backend Developer Coding">
 </p>
 
 ---
